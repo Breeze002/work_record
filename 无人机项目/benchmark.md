@@ -1,6 +1,3 @@
-下面是为你整理的 Markdown 格式版本，可以直接复制使用或导入到任何支持 Markdown 的笔记软件中（如 Notion、Obsidian、GitHub README 等）：
-
-```markdown
 # SOT 测试基准选型清单
 
 > **挑选原则**：场景覆盖广、缺陷标注细、有标准评测脚本（AUC/Precision/F1）、且与项目落地场景（无人机/ADAS/端侧）相关。
@@ -101,4 +98,3 @@
 - [pytracking](https://github.com/ethereal-dev/pytracking)
 - [got10k-toolkit](https://github.com/got-10k/toolkit)
 - [benchmark-results (OTB 汇总)](https://github.com/foolwood/benchmark-results)
-```
